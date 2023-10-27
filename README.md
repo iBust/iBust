@@ -1,1 +1,3 @@
-playing on coreboot, me_cleaner & precursor
+Corebooting
+ME_Cleaning
+Precursoring
