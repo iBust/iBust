@@ -1,1 +1,1 @@
-coreboot, precursor
+playing on coreboot, me_cleaner & precursor
